@@ -34,5 +34,17 @@
     "repository": "omnirom/android_hardware_qcom_wlan",
     "target_path": "hardware/qcom/wlan",
     "branch": "android-7.1"
+  },
+  {
+    "remote": "github",
+    "repository": "zeromod/proprietary_vendor_yu",
+    "target_path": "vendor/yu",
+    "branch": "cm-14.1-volte"
+  },
+  {
+    "remote": "github",
+    "repository": "zeromod/android_vendor_volte",
+    "target_path": "vendor/volte",
+    "branch": "cyos-7.1"
   }
 ]
